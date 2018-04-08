@@ -1,4 +1,0 @@
-import picamera
-camara = picamera.PiCamera()
-camara.capture("test_python.jpeg")
-camara.close()
